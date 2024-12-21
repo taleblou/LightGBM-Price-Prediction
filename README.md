@@ -87,7 +87,7 @@ This LightGBM model is an initial implementation, released for public use. The p
 
 This project is open-source and available for public use under the MIT License. Contributions and feedback are welcome\!
 
-[image1]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LightGBM_BTC-USD.png>
-[image2]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LightGBM_GC%3DF.png>
-[image3]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LightGBM_EURUSD%3DX.png>
-[image4]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LightGBM_%5EGSPC.png>
+[image1]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LGBM_BTC-USD.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LGBM_GC%3DF.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LGBM_EURUSD%3DX.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/LightGBM-Price-Prediction/refs/heads/main/Plot/LGBM_%5EGSPC.png>
